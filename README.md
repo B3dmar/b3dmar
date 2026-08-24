@@ -38,3 +38,7 @@ B3dmar is a one-person company (for now) based in Copenhagen, Denmark. Founded b
 - [3ngram.ai](https://3ngram.ai) -- Product
 - [docs.3ngram.ai](https://docs.3ngram.ai) -- Documentation
 - [b3dmar.com](https://b3dmar.com) -- Company
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md).
